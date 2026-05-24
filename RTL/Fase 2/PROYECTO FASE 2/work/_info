@@ -1,0 +1,561 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vadd_
+Z0 !s110 1778919123
+!i10b 1
+!s100 [OjU75bJfYA`>4Co]L9OQ2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IodajS7c^9[3mR4dO;FbX<3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aaron/Documents/PROYECTO FASE 2
+Z4 w1778911833
+Z5 8C:/Users/aaron/Documents/Arquitectura de Computadoras/add4.v
+Z6 FC:/Users/aaron/Documents/Arquitectura de Computadoras/add4.v
+!i122 188
+L0 1 8
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1778919123.000000
+Z9 !s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/add4.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/add4.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vALU
+Z13 !s110 1778919122
+!i10b 1
+!s100 [l:Sl:BVLE8V[@W8dAVhI0
+R1
+I7I2:Wi]IE3@[=^U>1Kdle0
+R2
+R3
+w1778903655
+8C:/Users/aaron/Documents/PROYECTO FASE 2/ALU.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/ALU.v
+!i122 175
+L0 1 25
+R7
+r1
+!s85 0
+31
+!s108 1778919121.000000
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/ALU.v|
+!i113 1
+R11
+R12
+n@a@l@u
+vALUControl
+R13
+!i10b 1
+!s100 [m@8]d9:of6Um`4MSk9jL0
+R1
+Iek[0E[[BXIUi7;B@Yea_81
+R2
+R3
+w1778903653
+8C:/Users/aaron/Documents/PROYECTO FASE 2/ALU_Control.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/ALU_Control.v
+!i122 176
+L0 2 36
+R7
+r1
+!s85 0
+31
+Z14 !s108 1778919122.000000
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/ALU_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/ALU_Control.v|
+!i113 1
+R11
+R12
+n@a@l@u@control
+vBancoReg
+R13
+!i10b 1
+!s100 [@_Tz9X1D73BTogdSneAY2
+R1
+If]=OcZ06d=zDkA=HAc>ao3
+R2
+R3
+w1778903657
+8C:/Users/aaron/Documents/PROYECTO FASE 2/Bank_R.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/Bank_R.v
+!i122 177
+L0 1 27
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/Bank_R.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/Bank_R.v|
+!i113 1
+R11
+R12
+n@banco@reg
+vBufferALU
+R0
+!i10b 1
+!s100 0iU34b2Qm`E4A>h7NJBGE1
+R1
+IzTPH65HbPRO8On6?`BQ[d2
+R2
+R3
+Z15 w1778919079
+Z16 8C:/Users/aaron/Documents/PROYECTO FASE 2/buffers.v
+Z17 FC:/Users/aaron/Documents/PROYECTO FASE 2/buffers.v
+!i122 189
+L0 119 64
+R7
+r1
+!s85 0
+31
+R8
+Z18 !s107 C:/Users/aaron/Documents/PROYECTO FASE 2/buffers.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/buffers.v|
+!i113 1
+R11
+R12
+n@buffer@a@l@u
+vBufferDatos
+R0
+!i10b 1
+!s100 k8Q4JGUIYcK>OZd@FUBTH2
+R1
+IG1demO@_1gXY@`dQi;[Y;3
+R2
+R3
+R15
+R16
+R17
+!i122 189
+L0 30 86
+R7
+r1
+!s85 0
+31
+R8
+R18
+R19
+!i113 1
+R11
+R12
+n@buffer@datos
+vBufferFinal
+R0
+!i10b 1
+!s100 DT3zB_PWb7Vcf62gUeFol3
+R1
+I4b?^LCZ5H19BE5Wm]EiWX3
+R2
+R3
+R15
+R16
+R17
+!i122 189
+L0 186 44
+R7
+r1
+!s85 0
+31
+R8
+R18
+R19
+!i113 1
+R11
+R12
+n@buffer@final
+vBufferInstr
+R0
+!i10b 1
+!s100 5f6_j09]h8glSmhd6SnZ90
+R1
+ILUXod5_EP20>fh?aHNGBW2
+R2
+R3
+R15
+R16
+R17
+!i122 189
+Z20 L0 1 26
+R7
+r1
+!s85 0
+31
+R8
+R18
+R19
+!i113 1
+R11
+R12
+n@buffer@instr
+vDPTR
+R13
+!i10b 1
+!s100 QGQ`BQ_fa3k3<W7;WE^MS2
+R1
+Iz<oXLm7UYI9EIE;08DI5;1
+R2
+R3
+w1778919119
+8C:/Users/aaron/Documents/PROYECTO FASE 2/DPTR.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/DPTR.v
+!i122 178
+L0 2 232
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/DPTR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/DPTR.v|
+!i113 1
+R11
+R12
+n@d@p@t@r
+vEX_MEM
+Z21 !s110 1778918857
+!i10b 1
+!s100 KTf1[A43hP<fVEHPm?G2e3
+R1
+I[1L^`:EEKaJjdeb8=43h60
+R2
+R3
+Z22 w1778912773
+R16
+R17
+!i122 174
+L0 117 64
+R7
+r1
+!s85 0
+31
+Z23 !s108 1778918857.000000
+R18
+R19
+!i113 1
+R11
+R12
+n@e@x_@m@e@m
+vID_EX
+R21
+!i10b 1
+!s100 gmm51FKHT<CFbB1zbgmF:0
+R1
+I?fVia_5N2TU=6oM7Z[d6^2
+R2
+R3
+R22
+R16
+R17
+!i122 174
+L0 29 86
+R7
+r1
+!s85 0
+31
+R23
+R18
+R19
+!i113 1
+R11
+R12
+n@i@d_@e@x
+vIF_ID
+R21
+!i10b 1
+!s100 ]6<c@<2fn[BlB?fT;]DnN0
+R1
+I_>kHL=Gh4b1DG<ag_g?d=3
+R2
+R3
+R22
+R16
+R17
+!i122 174
+R20
+R7
+r1
+!s85 0
+31
+R23
+R18
+R19
+!i113 1
+R11
+R12
+n@i@f_@i@d
+vMem_D
+R13
+!i10b 1
+!s100 lz@j`P^l6eNUQz1Nfll]z1
+R1
+I`K?^h>`2^7S=kK5VP7ic^1
+R2
+R3
+w1778918840
+8C:/Users/aaron/Documents/PROYECTO FASE 2/Mem_D.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/Mem_D.v
+!i122 179
+L0 1 29
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/Mem_D.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/Mem_D.v|
+!i113 1
+R11
+R12
+n@mem_@d
+vMem_I
+R13
+!i10b 1
+!s100 Pia_VGGhJ0bN@Df;G5_3i2
+R1
+I]e<=;jUk6Q^@F4@?T[?Lf2
+R2
+R3
+w1778909063
+8C:/Users/aaron/Documents/PROYECTO FASE 2/Mem_I.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/Mem_I.v
+!i122 180
+L0 1 17
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/Mem_I.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/Mem_I.v|
+!i113 1
+R11
+R12
+n@mem_@i
+vMEM_WB
+R21
+!i10b 1
+!s100 2V4cDjaPeo[8Q2VWMahln3
+R1
+Id_k6zCC@=2=]0a?YofSeB0
+R2
+R3
+R22
+R16
+R17
+!i122 174
+L0 183 44
+R7
+r1
+!s85 0
+31
+R23
+R18
+R19
+!i113 1
+R11
+R12
+n@m@e@m_@w@b
+vMIPS_TM
+R13
+!i10b 1
+!s100 SjABjbkBi^NLR[AJ4`n8Y3
+R1
+I1c7NNN6bSHWVf7UUE=k[P2
+R2
+R3
+w1778919078
+8C:/Users/aaron/Documents/PROYECTO FASE 2/MIPS_TM.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/MIPS_TM.v
+!i122 181
+L0 2 64
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/MIPS_TM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/MIPS_TM.v|
+!i113 1
+R11
+R12
+n@m@i@p@s_@t@m
+vMux2_1_32
+R13
+!i10b 1
+!s100 748^m1CHO6FcO;HCSR0:42
+R1
+I:YlVJ;>P3gK;I259hjz^M3
+R2
+R3
+w1778903669
+8C:/Users/aaron/Documents/PROYECTO FASE 2/MUX.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/MUX.v
+!i122 182
+L0 1 7
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/MUX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/MUX.v|
+!i113 1
+R11
+R12
+n@mux2_1_32
+vMux2_1_5
+R0
+!i10b 1
+!s100 e>nF>d6[oHOHoX2B4>aFb0
+R1
+IA8RL:aaIJ]kcF`DSG98Gl2
+R2
+R3
+w1778903672
+8C:/Users/aaron/Documents/PROYECTO FASE 2/MUX5b.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/MUX5b.v
+!i122 183
+Z24 L0 4 7
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/MUX5b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/MUX5b.v|
+!i113 1
+R11
+R12
+n@mux2_1_5
+vpc
+R0
+!i10b 1
+!s100 0ONaFT=[EFJXP7PCC63IP0
+R1
+I9aB^n5[9=9;3@4iUc?XYh1
+R2
+R3
+R4
+R5
+R6
+!i122 188
+L0 10 12
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vPC
+R0
+!i10b 1
+!s100 VPlmRY@oc@mF2>1m0L7MU0
+R1
+I>3ncF7F17QjlK>;KaD;RU1
+R2
+R3
+w1778903676
+8C:/Users/aaron/Documents/PROYECTO FASE 2/Program_Counter.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/Program_Counter.v
+!i122 184
+L0 2 13
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/Program_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/Program_Counter.v|
+!i113 1
+R11
+R12
+n@p@c
+vSignExtend
+R0
+!i10b 1
+!s100 H>O9YlUaB2Qm[EeSznESI3
+R1
+IeFlH6TD]:@bm6[jMEa7B33
+R2
+R3
+w1778903678
+8C:/Users/aaron/Documents/PROYECTO FASE 2/signExtend.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/signExtend.v
+!i122 185
+R24
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/signExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/signExtend.v|
+!i113 1
+R11
+R12
+n@sign@extend
+vTB_DPTR
+R0
+!i10b 1
+!s100 :`Y5IMY`VbMKSNARI0md^0
+R1
+I[gN4SibST;]i8]jh`SEYz3
+R2
+R3
+w1778903680
+8C:/Users/aaron/Documents/PROYECTO FASE 2/TB_DPTR.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/TB_DPTR.v
+!i122 186
+L0 1 42
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/TB_DPTR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/TB_DPTR.v|
+!i113 1
+R11
+R12
+n@t@b_@d@p@t@r
+vU_Control
+R0
+!i10b 1
+!s100 6OFh[Hg`S=VP=T50JZ<DM1
+R1
+I:[fUlcLDi550CbIldFGgH2
+R2
+R3
+w1778903682
+8C:/Users/aaron/Documents/PROYECTO FASE 2/U_Control.v
+FC:/Users/aaron/Documents/PROYECTO FASE 2/U_Control.v
+!i122 187
+L0 2 100
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aaron/Documents/PROYECTO FASE 2/U_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/PROYECTO FASE 2/U_Control.v|
+!i113 1
+R11
+R12
+n@u_@control
