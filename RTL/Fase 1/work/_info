@@ -1,0 +1,203 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vALU
+Z0 !s110 1777058527
+!i10b 1
+!s100 SL=mX02:2OY9NnL:268:h0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4VoJU]cW;>7BW^T=>;m0@0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aaron/Documents/Arquitectura de Computadoras
+w1776875966
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/ALU.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/ALU.v
+!i122 19
+L0 1 16
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1777058527.000000
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/ALU.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@l@u
+vALUControl
+R0
+!i10b 1
+!s100 Hz6Q=72j6geZ14]a<Lk_82
+R1
+IMGg_DihUEag_l^n`Z^bcS2
+R2
+R3
+w1776876176
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/Alu_Control.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/Alu_Control.v
+!i122 22
+L0 1 21
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Alu_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Alu_Control.v|
+!i113 1
+R6
+R7
+n@a@l@u@control
+vBancoReg
+R0
+!i10b 1
+!s100 g63=TbYeHEd?nC@gNnFDm1
+R1
+I=HCYQhXFidT?XEKIC[IGG0
+R2
+R3
+w1777058502
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/BancoReg.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/BancoReg.v
+!i122 23
+L0 1 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/BancoReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/BancoReg.v|
+!i113 1
+R6
+R7
+n@banco@reg
+vDPTR
+!s110 1777058528
+!i10b 1
+!s100 8>I;RG?c]GizC?An1a`RT0
+R1
+IRe4AaC6EkiN_@7FU@h[g71
+R2
+R3
+w1777057712
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/DPTR.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/DPTR.v
+!i122 25
+L0 1 22
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/DPTR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/DPTR.v|
+!i113 1
+R6
+R7
+n@d@p@t@r
+vMem
+R0
+!i10b 1
+!s100 FhH`hHDolJl_2Qb=f5VSX3
+R1
+IdjAzzmCUUW:49AGG4Gak73
+R2
+R3
+w1777057482
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/MemToRead.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/MemToRead.v
+!i122 21
+L0 1 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/MemToRead.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/MemToRead.v|
+!i113 1
+R6
+R7
+n@mem
+vMux2_1_32
+R0
+!i10b 1
+!s100 748^m1CHO6FcO;HCSR0:42
+R1
+I@EbWjiX0?k?IE6XI]JL[E3
+R2
+R3
+w1776875972
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/Mux2_1.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/Mux2_1.v
+!i122 24
+L0 1 7
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Mux2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Mux2_1.v|
+!i113 1
+R6
+R7
+n@mux2_1_32
+vTB_DPTR
+!s110 1777059537
+!i10b 1
+!s100 hjMf=M[QKiYdV@[F9OT8l3
+R1
+I[0Mf;OUbHoP1TPkh<9_kb2
+R2
+R3
+w1777059534
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/TB_DPTR.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/TB_DPTR.v
+!i122 29
+L0 1 57
+R4
+r1
+!s85 0
+31
+!s108 1777059537.000000
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/TB_DPTR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/TB_DPTR.v|
+!i113 1
+R6
+R7
+n@t@b_@d@p@t@r
+vU_Control
+R0
+!i10b 1
+!s100 DZh@SA]]T_Ug:?FF<fB1e3
+R1
+I7a@BOzhOG;25B^lz_J_<V3
+R2
+R3
+w1776874883
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/U_Control.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/U_Control.v
+!i122 20
+L0 1 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/U_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/U_Control.v|
+!i113 1
+R6
+R7
+n@u_@control

@@ -1,0 +1,16 @@
+module FA (
+input A,
+input B,
+input i_c,
+output S,
+output o_c
+);
+
+wire c1, c2, c3;
+
+HA ha1 (.A(A), .B(B), .S(c1), .C(c2));
+HA ha2 (.A(c1), .B(i_c), .S(S), .C(c3));
+
+assign o_c = c1 | c2;
+
+endmodule

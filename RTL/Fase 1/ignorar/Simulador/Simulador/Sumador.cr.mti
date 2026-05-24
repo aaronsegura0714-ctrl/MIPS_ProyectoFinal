@@ -1,0 +1,64 @@
+{C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_bit4
+
+Top level modules:
+	tb_bit4
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit_C.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit_C.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bit4_c
+
+Top level modules:
+	bit4_c
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/HA.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/HA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HA
+
+Top level modules:
+	HA
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit_C.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit_C.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bit8_c
+
+Top level modules:
+	bit8_c
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/FA.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/FA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bit8
+
+Top level modules:
+	bit8
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bit4
+
+Top level modules:
+	bit4
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/testC.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/testC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_4b
+
+Top level modules:
+	tb_4b
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test8C.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test8C.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test_8b
+
+Top level modules:
+	test_8b
+
+} {} {}}

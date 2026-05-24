@@ -1,0 +1,25 @@
+module tb_bit8;
+
+reg  [7:0] A;
+reg  [7:0] B;
+reg        c_in;
+wire [8:0] S;
+
+bit8 uut (A(A), .B(B), .c_in(c_in), .S(S)
+);
+
+initial begin
+    $display("A          B          Cin |  S");
+    $monitor("%b  %b   %b  |  %b", A, B, c_in, S);
+
+    A=8'b00000000; B=8'b00000000; c_in=0; #10;
+    A=8'b00001111; B=8'b00000001; c_in=0; #10;
+    A=8'b11111111; B=8'b00000001; c_in=0; #10;
+    A=8'b10101010; B=8'b01010101; c_in=1; #10;
+    A=8'b11111111; B=8'b11111111; c_in=1; #10;
+
+    $finish;
+end
+
+endmodule
+

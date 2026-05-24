@@ -1,0 +1,26 @@
+module tb_bit8_c;
+
+reg  [7:0] A;
+reg  [7:0] B;
+reg        C_in;
+wire [7:0] S;
+wire       C_out;
+
+bit8_c uut (.A(A),.B(B),.C_in(C_in),.S(S),.C_out(C_out)
+);
+
+initial begin
+    $display("A     B     Cin |  S     Cout");
+    $monitor("%d  %d   %d  |  %d    %d", A, B, C_in, S, C_out);
+
+    A=8'b00000000; B=8'b00000000; C_in=0; #10;
+    A=8'd25;       B=8'd10;       C_in=0; #10;
+    A=8'd200;      B=8'd50;       C_in=0; #10;
+    A=8'd255;      B=8'd1;        C_in=0; #10;
+    A=8'd128;      B=8'd128;      C_in=1; #10;
+
+    $finish;
+end
+
+endmodule
+

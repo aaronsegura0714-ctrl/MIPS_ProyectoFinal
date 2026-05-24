@@ -1,0 +1,289 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vbit4
+!s110 1771217723
+!i10b 1
+!s100 f<<MU9jlDfE<]2fk4UaNR2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I57[Xa9JLT=ED45Df93HZo1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador
+w1771178106
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit.v
+!i122 41
+L0 1 15
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1771217723.000000
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vbit4_c
+Z6 !s110 1771178612
+!i10b 1
+!s100 Qd1@ZeMOW5kKX::2jaN1^1
+R0
+I:l]lNTbFK1eQiFG<N2c8d0
+R1
+R2
+w1771177949
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit_C.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit_C.v
+!i122 34
+L0 1 10
+R3
+r1
+!s85 0
+31
+Z7 !s108 1771178612.000000
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit_C.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/4bit_C.v|
+!i113 1
+R4
+R5
+vbit8
+R6
+!i10b 1
+!s100 J>ic36>Q1K]RXER35[1Yg2
+R0
+IzEc1K>@h@?RRBW[TaKgaZ3
+R1
+R2
+w1771177426
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit.v
+!i122 35
+L0 1 14
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit.v|
+!i113 1
+R4
+R5
+vbit8_c
+!s110 1771219313
+!i10b 1
+!s100 5inFnPKF9iUc]PY4kacDl2
+R0
+I@RikIYQk8<@C^7Qn>aTm_0
+R1
+R2
+w1771217705
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit_C.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit_C.v
+!i122 45
+Z8 L0 1 11
+R3
+r1
+!s85 0
+31
+!s108 1771219313.000000
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit_C.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/8bit_C.v|
+!i113 1
+R4
+R5
+vFA
+R6
+!i10b 1
+!s100 ;o]DIcjn3R1DBhe_C^onB3
+R0
+I7`VjFim8K`1X_465XJ96F1
+R1
+R2
+w1770824820
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/FA.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/FA.v
+!i122 36
+L0 1 16
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/FA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/FA.v|
+!i113 1
+R4
+R5
+n@f@a
+vHA
+R6
+!i10b 1
+!s100 gHf?0_UdlKkiV3CB>5gl@3
+R0
+III2PS]OMkB[oPdF0:8^EF3
+R1
+R2
+w1770828801
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/HA.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/HA.v
+!i122 37
+R8
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/HA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/HA.v|
+!i113 1
+R4
+R5
+n@h@a
+vtb_4b
+!s110 1771220756
+!i10b 1
+!s100 cQc5TY3oV]>`2E:B1MKmR3
+R0
+IkdBE3>>?4P8IWG^[BS`cP0
+R1
+R2
+w1771220755
+Z9 8C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/testC.v
+Z10 FC:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/testC.v
+!i122 46
+L0 3 30
+R3
+r1
+!s85 0
+31
+!s108 1771220756.000000
+Z11 !s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/testC.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/testC.v|
+!i113 1
+R4
+R5
+vtb_bit4
+!s110 1771220773
+!i10b 1
+!s100 T`];m^_03]U>?>PGSVk`C1
+R0
+IFYH=MbRW_oo3nenGWQ0<P2
+R1
+R2
+w1771178598
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test.v
+!i122 49
+Z13 L0 1 28
+R3
+r1
+!s85 0
+31
+!s108 1771220772.000000
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test.v|
+!i113 1
+R4
+R5
+vtb_bit4_c
+!s110 1771217935
+!i10b 1
+!s100 PQ_76hDE]:hUo]:LHogR:3
+R0
+IElOHNX0XCZXKC0Si[o1W:1
+R1
+R2
+w1771217932
+R9
+R10
+!i122 42
+L0 1 24
+R3
+r1
+!s85 0
+31
+!s108 1771217935.000000
+R11
+R12
+!i113 1
+R4
+R5
+vtb_bit8
+R6
+!i10b 1
+!s100 h[?DR=Z]Xhh=01NMn;[]R2
+R0
+IBC8I]=J;diXlhVnCPnBEn3
+R1
+R2
+w1771177471
+8C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test8.v
+FC:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test8.v
+!i122 39
+R13
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test8.v|
+!i113 1
+R4
+R5
+vtb_bit8_c
+!s110 1771218393
+!i10b 1
+!s100 f^m6GHgldSmRzK7b5WlG@0
+R0
+IMeOz[BW^=V39L]F[gOe8T1
+R1
+R2
+w1771217955
+Z14 8C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test8C.v
+Z15 FC:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test8C.v
+!i122 44
+L0 1 25
+R3
+r1
+!s85 0
+31
+!s108 1771218393.000000
+Z16 !s107 C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test8C.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aaron/Documents/Arquitectura de Computadoras/Simulador/Simulador/Test8C.v|
+!i113 1
+R4
+R5
+vtest_8b
+!s110 1771220762
+!i10b 1
+!s100 K1mPZWD24dKf@?EKcWieB1
+R0
+I1Y?Hdl>Y4Si?RYQ0i[ZVU1
+R1
+R2
+w1771220752
+R14
+R15
+!i122 47
+L0 3 31
+R3
+r1
+!s85 0
+31
+!s108 1771220762.000000
+R16
+R17
+!i113 1
+R4
+R5

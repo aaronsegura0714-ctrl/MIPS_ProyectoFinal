@@ -1,0 +1,11 @@
+module bit4_c(
+    input  [3:0] A, 
+    input  [3:0] B,
+    input i_c,
+    output [4:0] C
+);
+
+assign C = A + B + i_c;
+
+endmodule
+

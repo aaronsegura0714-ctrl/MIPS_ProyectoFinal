@@ -1,0 +1,57 @@
+{C:/Users/aaron/Documents/Arquitectura de Computadoras/DPTR.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/DPTR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DPTR
+
+Top level modules:
+	DPTR
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/MemToRead.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/MemToRead.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mem
+
+Top level modules:
+	Mem
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/ALU.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/Alu_Control.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/Alu_Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/TB_DPTR.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/TB_DPTR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_DPTR
+
+Top level modules:
+	TB_DPTR
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/Mux2_1.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/Mux2_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2_1_32
+
+Top level modules:
+	Mux2_1_32
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/U_Control.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/U_Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module U_Control
+
+Top level modules:
+	U_Control
+
+} {} {}} {C:/Users/aaron/Documents/Arquitectura de Computadoras/BancoReg.v} {1 {vlog -work work -stats=none {C:/Users/aaron/Documents/Arquitectura de Computadoras/BancoReg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BancoReg
+
+Top level modules:
+	BancoReg
+
+} {} {}}
